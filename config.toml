@@ -3,7 +3,7 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "https://christophercelayaresume.godaddysites.com/"
+baseurl = "https://christophercelaya.netlify.com/"
 
 # Title of your site
 title = "Academic"
